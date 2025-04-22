@@ -56,6 +56,6 @@
          path: "./out"
      - name: deploy
        id: deployment
-       uses: actions/deploy-pages@v
+       uses: actions/deploy-pages@v4
 
 
